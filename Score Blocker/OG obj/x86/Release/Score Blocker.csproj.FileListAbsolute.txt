@@ -1,0 +1,9 @@
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\bin\Release\Score Blocker.exe.config
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\bin\Release\Score Blocker.exe
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\bin\Release\Score Blocker.pdb
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\bin\Release\Gma.UserActivityMonitor.dll
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Release\Score_Blocker.Properties.Resources.resources
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Release\Score Blocker.exe
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Release\Score Blocker.pdb
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Release\Score Blocker.csprojResolveAssemblyReference.cache
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Release\Score Blocker.csproj.GenerateResource.Cache

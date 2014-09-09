@@ -1,0 +1,12 @@
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\bin\Debug\Score Blocker.exe
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\bin\Debug\Score Blocker.pdb
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\bin\Debug\Gma.UserActivityMonitor.dll
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Debug\Score_Blocker.Properties.Resources.resources
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Debug\Score Blocker.exe
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Debug\Score Blocker.pdb
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\bin\Debug\Score Blocker.exe.config
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Sanans\Documents\Visual Studio 2010\Projects\Score Blocker\Score Blocker\obj\x86\Debug\ResGen.write.1.tlog
